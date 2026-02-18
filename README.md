@@ -1,8 +1,3 @@
-Here is the complete, professional Markdown code for your **README.md** using the **Option 1 (Big Font Banner)**.
-
-You can copy and paste this entire block directly into your project's `README.md` file.
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=EAC-RAG&fontSize=90&animation=fadeIn&fontAlignY=38"  alt="EAC-RAG Banner" />
 </p>
@@ -26,7 +21,6 @@ You can copy and paste this entire block directly into your project's `README.md
 **EAC-RAG** (Entity-Anchor Chunking) is an advanced RAG framework designed specifically for high-density information environments like medical directories (CIMS), legal codes, and technical manuals. 
 
 Traditional RAG suffers when "Table Traps" (dense tables listing dozens of entities) dilute retrieval accuracy. EAC-RAG solves this by modeling the relationship between text and entities as a **Weighted Bipartite Graph**, allowing the system to prioritize specific clinical evidence over generic mentions.
-
 
 
 ## ✨ Key Features
@@ -120,12 +114,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 -----
 
-### What to do next?
-
-1.  **Create a `LICENSE` file** and paste the MIT license text inside.
-2.  **Create a `setup.py` or `pyproject.toml`** (using the code I gave you earlier) so that `pip install .` actually works.
-3.  **Push to GitHub** and watch that beautiful banner render\!
-
-**Would you like me to help you write the `LICENSE` file text now?**
-
-```
