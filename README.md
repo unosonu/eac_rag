@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=EAC-RAG&fontSize=90&animation=fadeIn&fontAlignY=38"  alt="EAC-RAG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=120&stale=true&color=007CF0&center=true&vCenter=true&width=800&height=160&lines=EAC-RAG" alt="EAC-RAG Static Banner" />
 </p>
+
+
+---
 
 <p align="center">
   <strong>Entity-Anchor Chunking & Bipartite Graph RAG</strong><br>
