@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eac-rag"
+version = "0.1.0"
+description = "Entity-Anchor Chunking for Clinical RAG"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "networkx",
+    "faiss-cpu",
+    "sentence-transformers",
+    "gliner",
+    "pymupdf",
+    "numpy",
+    "ollama",
+    "tqdm"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
