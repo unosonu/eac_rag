@@ -16,7 +16,8 @@ dependencies = [
     "pymupdf",
     "numpy",
     "ollama",
-    "tqdm"
+    "tqdm",
+    "matplotlib"
 ]
 
 [tool.setuptools.packages.find]
