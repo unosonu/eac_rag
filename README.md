@@ -25,7 +25,7 @@
 
 Traditional RAG suffers when "Table Traps" (dense tables listing dozens of entities) dilute retrieval accuracy. EAC-RAG solves this by modeling the relationship between text and entities as a **Weighted Bipartite Graph**, allowing the system to prioritize specific clinical evidence over generic mentions.
 
-Read paper: https://openreview.net/forum?id=hYuda1th6f
+Read paper: https://openreview.net/forum?id=689X4yM3IA
 
 ## ✨ Key Features
 
